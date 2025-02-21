@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "typescript": "^5.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur-pulini/aula-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arthur-pulini/aula-typescript/issues"
+  },
+  "homepage": "https://github.com/arthur-pulini/aula-typescript#readme",
+  "description": ""
 }
